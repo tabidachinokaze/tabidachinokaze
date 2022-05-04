@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://img.shields.io/badge/-Java-3e74a2?style=flat-square&logo=Java&logoColor=fff)
-[![GitHub](https://img.shields.io/github/followers/tabidachinokaze.svg?lable=GitHub&style=social)](https://github.com/tabidachinokaze/)
-![Genshin Impact](https://genshin-card.getloli.com/1/77037185.png)
+![GitHub](https://img.shields.io/github/followers/tabidachinokaze.svg?lable=GitHub&style=social)](https://github.com/tabidachinokaze/)
+![Genshin Impact](https://genshin-card.getloli.com/rand/77037185.png)
 ```kotlin
 object Developer {
     val name = "tabidachinokaze"
